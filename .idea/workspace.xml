@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5783773d-e915-422a-b4e1-521d5a98a808" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1px39OtUv9gmhK7Ez7Yo30aQ9zF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5783773d-e915-422a-b4e1-521d5a98a808" name="Default Changelist" comment="" />
+      <created>1616110762098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616110762098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618906428755">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.813@0.25.1440.813" timestamp="1618906428755" />
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.814@0.25.1440.814" timestamp="1616598221203" />
+    <state x="221" y="67" key="SettingsEditor" timestamp="1618905106299">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="221" y="67" key="SettingsEditor/0.25.1440.813@0.25.1440.813" timestamp="1618905106299" />
+    <state x="541" y="195" key="run.anything.popup" timestamp="1618905599403">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="541" y="195" key="run.anything.popup/0.25.1440.813@0.25.1440.813" timestamp="1618905599403" />
+  </component>
+</project>
